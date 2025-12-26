@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "playwright e2e test with AI cap incl MCP",
+  "keywords": [
+    "playwright",
+    "playwright",
+    "e2e",
+    "test",
+    "playwright-mcp"
+  ],
+  "license": "ISC",
+  "author": "core automation",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
