@@ -13,7 +13,9 @@
   "author": "core automation",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "demo":"npx playwright test tests/demo/mytest1.spec.ts"
+  },
   "devDependencies": {
     "@playwright/test": "^1.57.0",
     "@types/node": "^25.0.3"
